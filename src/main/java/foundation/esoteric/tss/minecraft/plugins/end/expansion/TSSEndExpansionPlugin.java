@@ -1,6 +1,6 @@
-package org.esoteric.tss.minecraft.plugins.end.expansion;
+package foundation.esoteric.tss.minecraft.plugins.end.expansion;
 
-import org.esoteric.tss.minecraft.plugins.end.expansion.events.EndPortalListener;
+import foundation.esoteric.tss.minecraft.plugins.end.expansion.events.EndPortalListener;
 import org.bukkit.Bukkit;
 import org.bukkit.plugin.java.JavaPlugin;
 

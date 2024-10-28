@@ -1,6 +1,6 @@
-package org.esoteric.tss.minecraft.plugins.end.expansion.events;
+package foundation.esoteric.tss.minecraft.plugins.end.expansion.events;
 
-import org.esoteric.tss.minecraft.plugins.end.expansion.TSSEndExpansionPlugin;
+import foundation.esoteric.tss.minecraft.plugins.end.expansion.TSSEndExpansionPlugin;
 import org.bukkit.World;
 import org.bukkit.entity.EnderDragon;
 import org.bukkit.entity.Entity;

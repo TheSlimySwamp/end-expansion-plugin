@@ -4,7 +4,7 @@ plugins {
     id("xyz.jpenilla.run-paper") version "2.3.0"
 }
 
-group = "org.esoteric"
+group = "foundation.esoteric"
 version = "0.1.0"
 description = "A Minecraft plugin designed to make The Slimy Swamp's end much more challenging and difficult."
 

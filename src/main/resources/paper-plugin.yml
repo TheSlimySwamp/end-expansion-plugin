@@ -1,6 +1,6 @@
 name: TSSEndExpansion
 version: '0.1.0'
-main: org.esoteric.tss.minecraft.plugins.end.expansion.TSSEndExpansionPlugin
+main: foundation.esoteric.tss.minecraft.plugins.end.expansion.TSSEndExpansionPlugin
 api-version: '1.21'
 dependencies:
   server:
@@ -9,6 +9,6 @@ dependencies:
       load: BEFORE
 
 authors:
-  - Esoteric Organisation
+  - Esoteric Foundation
   - Esoteric Enderman
 description: A Minecraft plugin designed to make The Slimy Swamp's end much more challenging and difficult.
